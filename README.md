@@ -9,3 +9,5 @@ It was created for the UCS 745 Cloud and DevOps lab to practise Git and GitHub.
  
 ## How to view
 Open index.html in any browser.
+
+Made by Akash Pachauri
